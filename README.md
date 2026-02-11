@@ -19,7 +19,7 @@ The program is written in the **Z language**, a custom academic language, althou
 - **Tree Construction**: Build three BSTs (`Createbst1`, `Createbst2`, `Createbst3`) with different balancing strategies.
 - **Operations on Trees**:
   - Insert words into BSTs
-  - Count words starting with specific letters (X, Y, Z, a)
+  - Count words starting with specific letters
   - Compute tree depth
   - Inorder traversal
   - Level-by-level word counts
@@ -42,7 +42,7 @@ The program is written in the **Z language**, a custom academic language, althou
 2. Example menu options:
    - Generate a file with random words
    - Build BSTs from the file
-   - Count words starting with X, Y, Z, a
+   - Count words starting with some character
    - Compute depth and traverse trees
    - Search for a word or perform range queries
 
@@ -51,7 +51,7 @@ The program is written in the **Z language**, a custom academic language, althou
 ## Notes
 - Words are stored in BSTs based on their first character.
 - Rotations are applied to maintain balance depending on word prefixes.
-- The project demonstrates **tree balancing, search efficiency, and range queries** in a pedagogical setting.
+- The project demonstrates **tree balancing, search efficiency, and range queries** and other usefull Data Structures concepts.
 
 ---
 
